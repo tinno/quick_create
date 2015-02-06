@@ -13,6 +13,11 @@ var settings = {
 		root:"F:\\dev_branches",
 		domain:"http://tid.tenpay.com",
 		er_code:"true"
+	},
+	"我的demo":{
+		root:"F:\\my_demos\\lab\\tinno.github.io",
+		domain:"http://lab.tinno.org",
+		er_code:"true"
 	}/*,
 	"移动端活动ptmp":{
 		root:"F:\\dev_branches",
