@@ -1,4 +1,4 @@
-var link_pre = "https://chart.googleapis.com/chart?cht=qr&chs=150x150&choe=UTF-8&chld=L|1&chl=";
+var link_pre = "http://qr.liantu.com/api.php?w=200&text=";
 var mode = "single";
 var user_name = "tinnocui";
 
@@ -17,6 +17,11 @@ var settings = {
 	"我的demo":{
 		root:"F:\\my_demos\\lab\\tinno.github.io",
 		domain:"http://lab.tinno.org",
+		er_code:"true"
+	},
+	"home's demo":{
+		root:"F:\\develop\\tinno.github.io",
+		domain:"http://demo.tinno.org/tinno.github.io",
 		er_code:"true"
 	}/*,
 	"移动端活动ptmp":{
